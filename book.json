@@ -1,0 +1,44 @@
+{
+    "title": "easy.sh",
+    "author": "easy.sh",
+    "description": "Easily define shell commands/alias and use it on any server.",
+    "language": "en",
+    "plugins": [
+	    "-lunr", 
+	    "-search", 
+	    "search-pro",
+        "-sharing",
+        "splitter",
+        "expandable-chapters-small",
+        "anchors",
+        "sharing-plus",
+        "anchor-navigation-ex"
+    ],
+    "pluginsConfig": {
+        "sharing": {
+            "douban": true,
+            "facebook": true,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": true,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "douban", "facebook", "qq", "weibo", "twitter"
+            ]
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        }
+    }
+}
