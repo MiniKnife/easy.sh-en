@@ -1,7 +1,7 @@
 ### Basic operations
 #### Install
 
-##### Minimal version`(Not supported in Zsh)`
+##### Shortest version`(Not supported in Zsh)`
 ```shell
 $ wget easy.sh/x && . x
 ```
