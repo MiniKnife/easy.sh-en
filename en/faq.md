@@ -1,4 +1,4 @@
-## Question & Answer
+## FAQ
 
 1. How to use easy.sh in Dash?
 
