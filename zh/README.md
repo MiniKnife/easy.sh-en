@@ -6,14 +6,10 @@
 
 ```shell
 $ easy gitbook-server 'echo "这是一个例子"\
- && echo "1.获取代码"\
- && git clone $1\
- && echo "2.初始化gitbook"\
- && gitbook init\
- && echo "3.安装gitbook插件"\
- && gitbook install\
- && echo "4.启动服务"\
- && gitbook serve'
+ && echo "1.获取代码" && git clone $1\
+ && echo "2.初始化gitbook" && gitbook init\
+ && echo "3.安装gitbook插件" && gitbook install\
+ && echo "4.启动服务" && gitbook serve'
 $ gitbook-server https://git.easy.sh/xxx
 ...
 ```

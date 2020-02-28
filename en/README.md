@@ -6,14 +6,10 @@ The following command creates a command named `gitbook-server`, Execute the comm
 
 ```shell
 $ easy gitbook-server 'echo "This is an example"\
- && echo "1.Get code"\
- && git clone $1\
- && echo "2.Init gitbook"\
- && gitbook init\
- && echo "3.Install plugins"\
- && gitbook install\
- && echo "4.Startup"\
- && gitbook serve'
+ && echo "1.Get code" && git clone $1\
+ && echo "2.Init gitbook" && gitbook init\
+ && echo "3.Install plugins" && gitbook install\
+ && echo "4.Startup" && gitbook serve'
 $ gitbook-server https://git.easy.sh/xxx
 ...
 ```
