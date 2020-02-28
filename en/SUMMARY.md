@@ -7,3 +7,4 @@
 * [Limitations](limitations.md)
 * [User level description](vip.md)
 * [FAQ](faq.md)
+* [Feedback](feedback.md)

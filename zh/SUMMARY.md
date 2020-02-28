@@ -7,3 +7,4 @@
 * [使用限制](limitations.md)
 * [用户等级](vip.md)
 * [常见问题](faq.md)
+* [反馈建议](feedback.md)
