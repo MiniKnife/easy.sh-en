@@ -1,5 +1,5 @@
 ## Promotions
-**Users who registered before July 1, 2021 will be automatically upgraded to L1, valid for one year**
+**Users who registered before December 31st, 2021 will be automatically upgraded to L1, valid for one year**
 
 ## User level description
 
